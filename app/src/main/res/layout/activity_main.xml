@@ -11,16 +11,80 @@
         android:background="#f20"
         android:layout_weight="1"
         android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:background="#00FF40"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="#FFD500"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+
+        </LinearLayout>
+
+        <LinearLayout
+        android:background="#007BFF"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
         android:layout_height="0dp">
 
-    </LinearLayout
-        Viewimage 
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="#FF006F"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+
+        </LinearLayout>
+
+    </LinearLayout>
+
 
     <LinearLayout
         android:background="#C8B13D"
         android:layout_weight="1"
         android:layout_width="match_parent"
         android:layout_height="0dp">
+        <LinearLayout
+            android:background="#88FF00"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="#1100FF"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+        </LinearLayout><LinearLayout
+        android:background="#00FF2A"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
 
     </LinearLayout>
+
+        <LinearLayout
+            android:background="#FF1E00"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
 </LinearLayout>
